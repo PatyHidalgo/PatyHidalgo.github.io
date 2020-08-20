@@ -18,7 +18,7 @@ navbar-links:
     - Funding: "https://beautifuljekyll.com"
   Publications: "https://beautifuljekyll.com"
   Team: "https://www.yahoo.com"
-  Resources: "resources"
+  Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - UCSD Microgrid: "https://ucsd.edu"
