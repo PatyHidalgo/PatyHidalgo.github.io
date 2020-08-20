@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Reneable Energy + Advanced Mathematics Lab
+title: Renewable Energy + Advanced Mathematics Lab
 
 # Short description of your site
 description: Welcome to the REAM Lab! Test 2
@@ -12,11 +12,24 @@ author: Professor Patricia Hidalgo-Gonzalez
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Prof. Hidalgo-Gonzalez: "phg"
+    - Bio + CV:
+    - Teaching:
+    - Contact:
+  Research: "research"
+    - Projects: 
+    - Collaborators:
+    - Funding:
+  Publications: "publications"
+  Team: "team"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - UCSD Microgrid:
+    - CER:
+    - MAE:
+    - Tools:
+    -Fellowships:
 
 # --- Logo --- #
 
