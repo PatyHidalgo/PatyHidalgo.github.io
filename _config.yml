@@ -12,16 +12,16 @@ author: Professor Patricia Hidalgo-Gonzalez
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research: "research"
-    - Projects: "proj"
-    - Collaborators: "collab"
-    - Funding: "funds"
-  Publications: "publications"
-  Team: "team"
+  Research:
+    - Projects: "https://www.gmail.com"
+    - Collaborators: "https://www.google.com"
+    - Funding: "https://beautifuljekyll.com"
+  Publications: "https://beautifuljekyll.com"
+  Team: "https://www.yahoo.com"
   Resources: "resources"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - UCSD Microgrid:
+    - UCSD Microgrid: "https://ucsd.edu"
 
 # --- Logo --- #
 
