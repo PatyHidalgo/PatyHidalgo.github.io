@@ -12,24 +12,16 @@ author: Professor Patricia Hidalgo-Gonzalez
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Prof. Hidalgo-Gonzalez: "phg"
-    - Bio + CV:
-    - Teaching:
-    - Contact:
   Research: "research"
-    - Projects: 
-    - Collaborators:
-    - Funding:
+    - Projects: "proj"
+    - Collaborators: "collab"
+    - Funding: "funds"
   Publications: "publications"
   Team: "team"
-  Resources:
+  Resources: "resources"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - UCSD Microgrid:
-    - CER:
-    - MAE:
-    - Tools:
-    -Fellowships:
 
 # --- Logo --- #
 
