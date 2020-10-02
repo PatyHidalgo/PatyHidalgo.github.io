@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Funding Agencies
+title: Funding
 subtitle: Our work is sponsored by:
 ---
 
