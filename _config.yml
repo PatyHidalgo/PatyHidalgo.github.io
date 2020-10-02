@@ -13,7 +13,7 @@ author: Professor Patricia Hidalgo-Gonzalez
 
 navbar-links:
   Research:
-    - Projects: "aboutme"
+    - Projects: "projects"
     - Collaborators: "https://www.google.com"
     - Funding: "funding"
   Publications: "https://beautifuljekyll.com"
