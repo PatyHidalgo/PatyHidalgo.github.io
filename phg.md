@@ -35,7 +35,7 @@ convex optimization, control theory and power systems. Email: phidalgogonzalez a
 
 Professor Hidalgo-Gonzalez believes the world can be a better place if we:
 
-* Make engineering accessible for girls, young women, POC, LGBT members and other minorities 
+* Make engineering accessible for girls, young women, BIPOC, LGBT members and other minorities 
 * Make education accessible for all
 * Mentor talented students from all over the world
 * Mitigate climate change
