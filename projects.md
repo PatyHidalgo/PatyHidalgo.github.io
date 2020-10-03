@@ -120,12 +120,12 @@ and microgrids in the market (TSO-DSO coordination). **The objective of this wor
  at the same time ensuring reliability in the events of wildfire**. 
  
  
- ### Electricity Market and Ancillary Services Redesign
+### Electricity Market and Ancillary Services Redesign
  
- As more renewable energy participates in power systems, the markets and requirements that govern its operation
- require to be modernized to be able to operate efficiently and reliably in this new setting. This projects aims to design
- new ancillary services that use state of the art mathematical methods (machine learning, reinforcement learning, 
- control theory, optimization) to guarantee  safe and reliable system's operation.
+As more renewable energy participates in power systems, the markets and requirements that govern its operation
+require to be modernized to be able to operate efficiently and reliably in this new setting. This projects aims to design
+new ancillary services that use state of the art mathematical methods (machine learning, reinforcement learning, 
+control theory, optimization) to guarantee  safe and reliable system's operation.
  
  
  
