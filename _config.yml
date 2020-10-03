@@ -16,6 +16,10 @@ navbar-links:
     - Projects: "projects"
     - Collaborators: "https://www.google.com"
     - Funding: "funding"
+  Prof. Hidalgo-Gonzalez:
+    - Bio+CV: "phg"
+    - Teaching: "teaching"
+    - Contact: "contact"
   Publications: "https://beautifuljekyll.com"
   Team: "https://www.yahoo.com"
   Resources:
