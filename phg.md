@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Professor Patricia Hidalgo-Gonzalez
-subtitle: Biography and CV
+title: 
+subtitle: Professor Patricia Hidalgo-Gonzalez
 ---
+
+### Biography
 
 Professor Hidalgo-Gonzalez holds a Ph.D. and two M.Sc. from the University of California, 
 Berkeley (Energy and Resources and Electrical Engineering and Computer Sciences). 
@@ -15,6 +17,8 @@ and Paper Forum Chair at the 2019 and 2020 IEEE Power & Energy Society General M
 She is one of the academic co-leads of the IEEE Power & Energy Society Task Force “Data-Driven 
 Controls for Distributed Systems”. She is the director of the Renewable Energy and Advanced Mathematics 
 (REAM) lab at UCSD. 
+
+### Research interest
 
 Professor Hidalgo-Gonzalez’s work focuses on high penetration of 
 renewable energy using optimization, control theory and machine learning. She co-developed 
