@@ -29,3 +29,6 @@ interested in power dynamics, energy policy, electricity market redesign for the
 of renewable energy, microgrids, transmission and distribution systems, and learning 
 for dynamical systems with safety guarantees. Professor Hidalgo-Gonzalez enjoys teaching 
 convex optimization, control theory and power systems. Email: phidalgogonzalez at eng.ucsd.edu
+
+### Outreach
+
