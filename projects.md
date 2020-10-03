@@ -62,6 +62,23 @@ scenarios modeled separately, and about 5.6% higher installed gas capacity, due 
 operational flexibility under the wider range of possible conditions.
 
 
+### Modeling of Long-Duration Storage for Decarbonization of California and the Western US Energy System 
+
+The challenge is to meet all of California’s and Western US' clean-energy goals with low cost solutions. 
+Low-cost solar and wind electricity are a partial solution, but the public would also like low-cost 
+electricity when solar and wind electricity are not available (at night and/or on calm days). 
+While many technologies show promise to provide the needed storage and/or demand management, 
+none is established in a way that gives confidence or that elucidates how a zero-carbon electricity grid will function.
+
+Modeling of the Western US electricity grid requires thousands of assumptions and the 
+assumptions can vary widely. The state of California can implement time of use rates or 
+demand management programs that can help to shift load to times when renewable electricity 
+is available. These actions have the potential to greatly accelerate the adoption of new 
+storage technologies for different durations if they are well planned. **Our challenge is 
+to develop and implement mathematical methods to operate and optimize the capacity expansion 
+of the grid, and with this framework, study the roles and cost targets of long-duration 
+storage technologies**. 
+
 ### Wave Energy Technology Assessment for Optimal Grid Integration and Blue Economy Advancement
 
 
@@ -72,7 +89,7 @@ The marine energy potential in the United States is twice the current total nati
   by co-locating wave energy with other blue economy markets, specifically offshore wind, 
   seawater desalination, and aquaculture. By quantifying the benefits of co-location before 
   the build-out of these assets, the technical, regulatory, and economic opportunities can 
-  be maximized. We propose an **in-depth national study of the techno-economic performance of 
+  be maximized. We propose **the first in-depth national study of the techno-economic performance of 
   wave and combined wind-wave farms for utility-scale grid connection and powering blue economy 
   industries**, such as seawater desalination. This analysis has the potential to guide wave 
   technology designs, stimulate the marine energy markets, and disrupt the national energy landscape.
@@ -101,3 +118,17 @@ Electricity market design to allow the participation of distributed energy resou
 and microgrids in the market (TSO-DSO coordination). **The objective of this work is to design
  an effective scheme to aid the penetration of DER independently and within microgrids, while 
  at the same time ensuring reliability in the events of wildfire**. 
+ 
+ 
+ ### Electricity Market and Ancillary Services Redesign
+ 
+ As more renewable energy participates in power systems, the markets and requirements that govern its operation
+ require to be modernized to be able to operate efficiently and reliably in this new setting. This projects aims to design
+ new ancillary services that use state of the art mathematical methods (machine learning, reinforcement learning, 
+ control theory, optimization) to guarantee  safe and reliable system's operation.
+ 
+ 
+ 
+ 
+ 
+ 
