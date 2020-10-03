@@ -6,7 +6,8 @@ subtitle: Professor Patricia Hidalgo-Gonzalez
 
 ### Biography
 
-Professor Hidalgo-Gonzalez holds a Ph.D. and two M.Sc. from the University of California, 
+Dr. Hidalgo-Gonzalez is an Assistant Professor in Mechanical and Aerospace Engineering at UC
+San Diego. She holds a Ph.D. and two M.Sc. from the University of California, 
 Berkeley (Energy and Resources and Electrical Engineering and Computer Sciences). 
 She graduated as an Industrial and Electrical engineer from Pontificia Universidad 
 Católica of Chile. She is an NSF GRFP fellow, Siebel Scholar in Energy, Rising Star 
@@ -32,3 +33,11 @@ convex optimization, control theory and power systems. Email: phidalgogonzalez a
 
 ### Outreach
 
+Professor Hidalgo-Gonzalez believes the world can be a better place if we:
+
+* Make engineering accessible for girls, young women, POC, LGBT members and other minorities 
+* Make education accessible for all
+* Mentor talented students from all over the world
+* Mitigate climate change
+* Have mostly plant-based diets (to the extent possible for each person)
+* Are generally kind :)
