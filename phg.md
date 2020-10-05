@@ -6,7 +6,7 @@ subtitle: Professor Patricia Hidalgo-Gonzalez
 
 ### Biography
 
-<img align="left" src="/assets/img/2019_Hidalgo-Gonzalez.png">
+<img align="left" src="/assets/img/2019_Hidalgo-Gonzalez.png" width="200"/>
 
 
 Dr. Hidalgo-Gonzalez is an Assistant Professor in Mechanical and Aerospace Engineering at UC
