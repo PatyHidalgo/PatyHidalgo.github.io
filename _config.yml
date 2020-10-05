@@ -21,15 +21,15 @@ navbar-links:
     - Teaching: "teaching"
     - Contact: "contact"
   Publications: "https://scholar.google.com/citations?user=717OwfoAAAAJ&hl=en"
-    Team  :
+  Team:
    - Lab members: "lab"
    - Join us!: "join"
   Resources:
     - Courses: "courses_recommendations"
-    - CER: "https://beautifuljekyll.com"
-    - MAE: "https://www.markdowntutorial.com/"
+    - CER: "https://cer.ucsd.edu/"
+    - MAE: "http://mae.ucsd.edu/"
     - UCSD Microgrid: "https://ucsd.edu"
-    - Fellowships: "www.nsf.gov"
+    - Fellowships: "fellowships"
 
 # --- Logo --- #
 
