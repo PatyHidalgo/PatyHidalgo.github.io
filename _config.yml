@@ -46,7 +46,7 @@ round-avatar: true
 
 # --- After content --- #
 
-after-content: _includes/UCSD_logo.html
+after-content: UCSD_logo.html
 
 # --- Footer options --- #
 
