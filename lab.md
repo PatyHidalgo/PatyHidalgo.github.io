@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ### Principal Investigator
-&NewLine;
+ 
 
 #### Dr. Patricia Hidalgo-Gonzalez
 
@@ -27,24 +27,24 @@ for dynamical systems with safety guarantees. For more info refer to her [bio](p
 
 
 ### Postdoctoral fellows
-&NewLine;
+ 
 
 Under construction...
 
 
 ### Ph.D. students
-&NewLine;
+ 
 
 Under construction...
 
 
 ### M.S. students
-&NewLine;
+ 
 
 Under construction...
 
 ### Undergraduate students
-&NewLine;
+ 
 
 Under construction...
 
