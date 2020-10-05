@@ -21,7 +21,7 @@ navbar-links:
     - Teaching: "teaching"
     - Contact: "contact"
   Publications: "https://scholar.google.com/citations?user=717OwfoAAAAJ&hl=en"
-  Team:
+    Team  :
    - Lab members: "lab"
    - Join us!: "join"
   Resources:
