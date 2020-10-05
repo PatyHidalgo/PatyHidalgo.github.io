@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: Professor Patricia Hidalgo-Gonzalez
+title: Team members
+subtitle: 
 ---
 
 ### Principal Investigator
