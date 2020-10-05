@@ -8,8 +8,8 @@ title: Join our team
 
 Send an email to Professor Hidalgo-Gonzalez expressing your interest to join the REAM lab and make sure to include:
  - Your CV, 
- - Transcripts of your degrees, 
- - What type of projects motivate you (do not limit yourself to what is listed on the website)
+ - Transcript(s) of your degree(s), 
+ - Your research interests (do not limit yourself to what is listed on the website),
  - If you are a fellowship recipient with funding
 
 
