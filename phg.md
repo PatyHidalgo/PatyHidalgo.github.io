@@ -6,6 +6,9 @@ subtitle: Professor Patricia Hidalgo-Gonzalez
 
 ### Biography
 
+<img align="left" src="assets/img/2019_Hidalgo-Gonzalez.jpg">
+
+
 Dr. Hidalgo-Gonzalez is an Assistant Professor in Mechanical and Aerospace Engineering at UC
 San Diego. She holds a Ph.D. and two M.Sc. from the University of California, 
 Berkeley (Energy and Resources and Electrical Engineering and Computer Sciences). 
