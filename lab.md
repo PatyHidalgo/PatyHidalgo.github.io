@@ -7,7 +7,7 @@ subtitle:
 ### Principal Investigator
 
 # Dr. Patricia Hidalgo-Gonzalez
-Email: phidalgogonzalez [at] ucsd.edu
+**Email:** phidalgogonzalez [at] ucsd.edu
 
 <img align="left" src="/assets/img/2019_Hidalgo-Gonzalez.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
