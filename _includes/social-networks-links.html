@@ -1,5 +1,11 @@
 <ul class="list-inline text-center footer-links">
 
+{%- if site.social-network-links.logo -%}
+  <li class="list-inline-item">
+    <img align="left" src="/assets/img/UCSD_logo.png" width="300"/>
+  </li>
+{%- endif -%}
+
 {%- if site.social-network-links.rss -%}
   <li class="list-inline-item">
     <a href="{{ '/feed.xml' | relative_url }}" title="RSS">
