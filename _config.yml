@@ -14,7 +14,7 @@ description: REAM Lab at UC San Diego
 navbar-links:
   Research:
     - Projects: "projects"
-    - Collaborators: "https://www.google.com"
+    - Collabs: "collabs"
     - Funding: "funding"
   Prof. Hidalgo-Gonzalez:
     - Bio+CV: "phg"
