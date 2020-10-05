@@ -44,6 +44,9 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+# --- After content --- #
+
+after-content: _includes/UCSD_logo.html
 
 # --- Footer options --- #
 
