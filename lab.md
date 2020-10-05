@@ -6,8 +6,8 @@ subtitle:
 
 ### Principal Investigator
 
+
 #### Dr. Patricia Hidalgo-Gonzalez
-**Email:** phidalgogonzalez [at] ucsd.edu
 
 <img align="left" src="/assets/img/2019_Hidalgo-Gonzalez.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
@@ -22,6 +22,8 @@ of renewable energy, microgrids, transmission and distribution systems, and lear
 for dynamical systems with safety guarantees. For more info refer to her [bio](phg.md) and [projects](projects.md).
 
 **Fun fact:** Professor Hidalgo-Gonzalez attends silent 10-day meditation courses.
+
+**Email:** phidalgogonzalez [at] ucsd.edu
 
 
 ### Postdoctoral fellows
