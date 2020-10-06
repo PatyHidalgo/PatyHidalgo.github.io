@@ -2,6 +2,7 @@
 layout: page
 title: 
 subtitle: Professor Patricia Hidalgo-Gonzalez
+footer-extra: ucsd_logo.html
 ---
 
 ### Biography
