@@ -29,6 +29,8 @@ navbar-links:
     - CER: "https://cer.ucsd.edu/"
     - MAE: "http://mae.ucsd.edu/"
     - UCSD Microgrid: "https://ucsd.edu"
+    - Deep Decarbon: "https://deepdecarbon.ucsd.edu/"
+    - SPEC: "https://spec.ucsd.edu/"
     - Fellowships: "fellowships"
 
 # --- Logo --- #
