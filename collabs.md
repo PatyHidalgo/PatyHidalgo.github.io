@@ -16,3 +16,6 @@ Here are some of the institutions the REAM lab works with. If you are interested
 <img style="float:left;" src="/assets/img/UNC_logo.png" width="350" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 </p>
 
+<p>
+<img style="float:left;" src="/assets/img/Tufts_logo_.png" width="350" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+</p>
