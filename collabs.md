@@ -17,5 +17,5 @@ Here are some of the institutions the REAM lab works with. If you are interested
 </p>
 
 <p>
-<img style="float:left;" src="/assets/img/Tufts_logo.png" width="350" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+<img style="float:left;" src="/assets/img/Tufts_logo2.png" width="350" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 </p>
