@@ -2,6 +2,7 @@
 layout: page
 title: Fellowships
 subtitle:
+footer-extra: ucsd_logo.html
 ---
 
 Here is a non-exhaustive list of opportunities:

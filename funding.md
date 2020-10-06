@@ -2,6 +2,7 @@
 layout: page
 title: Funding agencies
 subtitle:
+footer-extra: ucsd_logo.html
 ---
 
 <p>

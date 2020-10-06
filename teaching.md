@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 subtitle:
+footer-extra: ucsd_logo.html
 ---
 
 ### Convex Optimization for Engineers

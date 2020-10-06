@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 subtitle: Current, future and past work
+footer-extra: ucsd_logo.html
 ---
 
 The REAM lab  has a myriad of projects that analyze renewable energy integration, ranging from long-term planning to real-time operations. The following is a non-exhaustive list of research threads:

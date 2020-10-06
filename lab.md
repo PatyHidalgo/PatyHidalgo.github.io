@@ -2,6 +2,7 @@
 layout: page
 title: Team members
 subtitle: 
+footer-extra: ucsd_logo.html
 ---
 
 ### Principal Investigator

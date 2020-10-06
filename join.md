@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join our team
+footer-extra: ucsd_logo.html
 ---
 
 ### Interested to join our team as a Postdoc, Ph.D., M.S. or undergraduate student? 
