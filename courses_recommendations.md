@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Teaching
+title: Recommended courses
 subtitle:
+footer-extra: ucsd_logo.html
 ---
 
 ### Convex Optimization for Engineers
@@ -31,3 +32,6 @@ Prerequisites:  nongraduate students may enroll with consent of instructor.
 
 
 ### Introduction to Solar and Wind Energy
+
+Under construction...
+
