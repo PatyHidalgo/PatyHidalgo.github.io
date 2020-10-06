@@ -12,7 +12,7 @@ footer-extra: ucsd_logo.html
 
 Dr. Hidalgo-Gonzalez is an Assistant Professor in Mechanical and Aerospace Engineering at UC
 San Diego. She holds a Ph.D. and two M.Sc. from the University of California, 
-Berkeley (Energy and Resources and Electrical Engineering and Computer Sciences). 
+Berkeley in Energy and Resources and Electrical Engineering and Computer Sciences. 
 She graduated as an Industrial and Electrical engineer from Pontificia Universidad 
 Católica of Chile. She is an NSF GRFP fellow, Siebel Scholar in Energy, Rising Star 
 in Electrical Engineering and Computer Science, and has been awarded the UC Berkeley 
