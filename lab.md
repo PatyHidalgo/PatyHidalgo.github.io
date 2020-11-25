@@ -44,7 +44,44 @@ Under construction...
 ### M.S. students
  
 
-Under construction...
+#### Aditya Kulkarni
+
+**Bio:** I'm a graduate student at the ECE department UC San Diego with major focus
+ on deep learning and machine learning. I really enjoy learning and applying ML and 
+ deep learning to a wide variety of problems. Importantly, I feel that this technology 
+ has a pivotal role in making human activities more efficient (less exacting on nature). 
+ Prior to this I worked full time developing algorithms and hardware for 5G modems at 
+ MediaTek. I hold a bachelor's degree in ECE from R.V College of Engineering, India.
+ 
+**Research:** I'm very much interested in solving ecological problems using AI. 
+Currently at REAM lab working towards making renewables an integral part of our 
+energy by predicting the power consumption dynamics. Previously I worked on using 
+deep learning for remote sensing to assist large scale and efficient agricultural 
+decision making. 
+
+**Fun fact:**  I can converse in 5 languages, the fifth one is python!
+
+####
+
+**Bio:** Noah is an M.S. candidate in the Computer Science and Engineering department at
+ UC San Diego. He also works for the Coastal Observing Research & Development Center 
+ (CORDC) at the Scripps Institution of Oceanography, analyzing fishing vessel behavior
+  and building systems to help combat illegal, unreported, and unregulated (IUU) fishing. 
+  Before graduate school, he spent four years working in the Investment Banking Division 
+  of Goldman Sachs. He graduated with High Honors from Swarthmore College in 2014, 
+  obtaining a B.S. in Engineering and a B.A. in Economics.
+  
+**Research:** Noah is broadly interested in machine learning, from its theoretical underpinnings 
+to the design and construction of novel machine learning systems. He especially 
+enjoys working on unsupervised systems that are able to extract meaning without 
+labels, and on the data systems that allow for efficient training and inference. 
+His current work is focused on the application of recurrent, generative models to 
+real data in order to provide practical insights.  
+
+**Fun fact:**  Noah is a member of the Tau Beta Pi Engineering Honor Society along with his grandfather, Henry, class of 1943!
+
+**Email:** nsterng1 [at] gmail.com
+
 
 ### Undergraduate students
  
