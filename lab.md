@@ -61,7 +61,7 @@ decision making.
 
 **Fun fact:**  I can converse in 5 languages, the fifth one is python!
 
-####
+#### Noah Sterngold
 
 **Bio:** Noah is an M.S. candidate in the Computer Science and Engineering department at
  UC San Diego. He also works for the Coastal Observing Research & Development Center 
