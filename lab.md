@@ -86,7 +86,22 @@ real data in order to provide practical insights.
 ### Undergraduate students
  
 
-Under construction...
+#### Martin Staadecker
+
+**Bio:**  I'm an undergraduate student in the Engineering Science program at the 
+University of Toronto planning to specialize in robotics. Most recently, I was a 
+technical lead at Flatten, a Canadian non-profit where we built a data-collection 
+platform to help governments respond to the COVID-19 pandemic.
+
+**Research:** I'm interested in projects where I can learn something new 
+while having a positive impact. Modelling the energy grid with the REAM Lab 
+is perfect as our work directly impacts policy decisions and eventually carbon emissions.
+
+**Fun fact:** Last year I went outdoor rock climbing in Mexico and I can't wait to go back!
+
+**Email:** martin.staadecker [at] mail.utoronto.ca
+
+
 
 
 
