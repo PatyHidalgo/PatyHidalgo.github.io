@@ -73,6 +73,8 @@ entangled ideas and to create novel energy solutions.
 
 #### Aditya Kulkarni
 
+<img align="left" src="/assets/img/aditya.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+
 **Bio:** I'm a graduate student at the ECE department UC San Diego with major focus
  on deep learning and machine learning. I really enjoy learning and applying ML and 
  deep learning to a wide variety of problems. Importantly, I feel that this technology 
@@ -89,6 +91,8 @@ decision making.
 **Fun fact:**  I can converse in 5 languages, the fifth one is python!
 
 #### Noah Sterngold
+
+<img align="left" src="/assets/img/noah2.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
 **Bio:** Noah is an M.S. candidate in the Computer Science and Engineering department at
  UC San Diego. He also works for the Coastal Observing Research & Development Center 
