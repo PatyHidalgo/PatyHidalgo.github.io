@@ -39,6 +39,33 @@ Under construction...
 #### Manasa Muralidharan
 
 
+#### Paul Serna Torre
+
+<img align="left" src="/assets/img/Paul_Serna-Torre.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+
+**Bio:** Paul is a graduate student (Mechanical Engineering PhD., track: Energy) 
+at UC San Diego advised by Patricia Hidalgo-Gonzalez. He graduated with highest 
+honors as an Electrical Engineer from Universidad Nacional de Ingeniería of Peru. 
+For one year, Paul worked on electricity pricing at the Peruvian Energy Commision (Osinergmin).
+ At this institution, Paul codeveloped the "Perseo 2.0" model that is a hydrothermal economic 
+ dispatch model for electricity tariffs of Peru. In the pursuit of more challenges, 
+ Paul began working at the Peruvian Electricity Operator (Coes) in 2018. At Coes, 
+ for three years, Paul enjoyed working on electrical analysis and short-term power 
+ optimization of the Peruvian system. In addition, with the guidance of Wilfredo Sifuentes, 
+ he teamed up with four engineers to develop the "Yupana" model that is the official 
+ short-term power generation scheduling model of Peru..
+
+**Research:** Paul is zestfully learning on optimization, electricity markets, 
+power system dynamics and the decarbonization of power systems. He is particularly 
+interested in leveraging Operations Research-based methods (e.g. Benders Decomposition, 
+Non-linear methods, MILP) to optimize and control energy systems. Moreover, 
+Paul formed a predilection for teaching and mentoring students, so he is always 
+looking for new opportunities to teach and help students.
+
+**Fun fact:** For Paul, biking and going jogging are the best ways to refresh his 
+entangled ideas and to create novel energy solutions.
+
+**Email:** psernatorre [at] ucsd.edu / psernat [at] uni.pe 
 
 
 ### M.S. students
