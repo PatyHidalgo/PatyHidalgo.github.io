@@ -100,7 +100,7 @@ entangled ideas and to create novel energy solutions.
 
 #### Aditya Kulkarni
 
-<img align="left" src="/assets/img/aditya.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+<img align="left" src="/assets/img/aditya_v3.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
 **Bio:** I'm a graduate student at the ECE department UC San Diego with major focus
  on deep learning and machine learning. I really enjoy learning and applying ML and 
