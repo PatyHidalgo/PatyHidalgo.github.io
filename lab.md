@@ -39,30 +39,6 @@ Under construction...
 #### Manasa Muralidharan
 
 
-#### Shiny Choudhury
-
-<img align="left" src="/assets/img/Shiny_Choudhury.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
-
-**Bio:** Shiny (she/her) is a Ph.D. student at UC San Diego's MAE department. She graduated from 
-UC Irvine with an MS in MAE, where she conducted her research at the UCI Combustion Lab. Her
- thesis was a part of a California Energy Commission-funded project focused on renewable fuel
-  interchangeability analysis (experiments and numerics) for stationary combustion devices. 
-  While at UCI, Shiny also spearheaded a collaboration on building a campus-wide load 
-  (heating, cooling, and electric) forecast model for the central plant using deep learning. 
-  She holds an undergraduate in Mechanical Engineering from the CET Bhubaneshwar in India. 
-
-**Research:** Shiny is driven by the urgency of global warming and believes that resilient 
-and high penetration renewable energy infrastructure are necessary to a) electrify as much 
-of global energy as possible, b) fulfill the increasing heating and cooling demands, and 
-c) eventually lead to net-zero emissions. To that end, she is interested in the theoretical
- modeling of energy systems using optimization, controls, and machine learning/AI. Shiny 
- is also interested in exploring the trade-off pertaining to 100% automation of smart grids 
- vs. a human controller making a certain percentage of decisions from long-term grid 
- stability and grid safety point of view. 
-
-**Fun fact:** Shiny oscillates between yoga and kickboxing to clear her mind and get new ideas!
-
-**Email:** schoudhury [at] ucsd.edu
 
 
 
