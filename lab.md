@@ -38,9 +38,33 @@ Under construction...
 
 #### Manasa Muralidharan
 
+<img align="left" src="/assets/img/Manasa.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
+**Bio:** Manasa Muralidharan (she/her) is a PhD Candidate in the Mechanical Engineering department 
+at UCSD co-advised by Prof. Patricia Hidalgo-Gonzalez and Prof. Jan Kleissl. She graduated 
+with a Bachelors in Aerospace Engineering with Distinction from Amrita Vishwa Vidyapeetham 
+(University), Coimbatore, India in 2017. She was a study-abroad student at UCSD for the 
+last 3 semesters of her undergraduate study. Her undergraduate research project was on 
+studying the impact of shading from rooftop solar photovoltaics on building heating and 
+cooling energy use and costs.
 
+**Research:**  Manasa is broadly interested in distributed control, optimization and learning 
+for power grids with a high share of renewable and distributed energy resources.
+Her earlier research work was on optimal control for battery energy storage systems. 
+As a part of an ARPA-E OPEN project, she developed a system-level optimal controller for a 
+novel heterogeneous unifying battery system that improves state-of-health uniformity, 
+performance and reliability of 2nd-life electric vehicle batteries.
+Her current research focuses on frequency control. As a part of an ARPA-E NODES project, 
+she developed a power flow model of the UCSD microgrid to test microgrid response to a 
+secondary frequency regulation request from the grid operator. She also contributed to 
+one of the first real-world, large-scale demonstrations of distributed secondary 
+frequency control using heterogeneous distributed energy resources on the UCSD microgrid. 
+Her current research includes distributed frequency control and safety-guaranteed 
+learning-based frequency control for power grids with low and time-varying inertia.
 
+**Fun fact:** Manasa is a classically-trained and passionate dancer. She is currently a part 
+of an all-women Bachata dance team with a local dance company and performs at different 
+Latin dancing events in San Diego
 
 #### Natalia Gonzalez
 
@@ -107,47 +131,6 @@ entangled ideas and to create novel energy solutions.
 ### M.S. students
  
 
-#### Aditya Kulkarni
-
-<img align="left" src="/assets/img/aditya_v3.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
-
-**Bio:** I'm a graduate student at the ECE department UC San Diego with major focus
- on deep learning and machine learning. I really enjoy learning and applying ML and 
- deep learning to a wide variety of problems. Importantly, I feel that this technology 
- has a pivotal role in making human activities more efficient (less exacting on nature). 
- Prior to this I worked full time developing algorithms and hardware for 5G modems at 
- MediaTek. I hold a bachelor's degree in ECE from R.V College of Engineering, India.
- 
-**Research:** I'm very much interested in solving ecological problems using AI. 
-Currently at REAM lab working towards making renewables an integral part of our 
-energy by predicting the power consumption dynamics. Previously I worked on using 
-deep learning for remote sensing to assist large scale and efficient agricultural 
-decision making. 
-
-**Fun fact:**  I can converse in 5 languages, the fifth one is python!
-
-#### Noah Sterngold
-
-<img align="left" src="/assets/img/noah2.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
-
-**Bio:** Noah is an M.S. candidate in the Computer Science and Engineering department at
- UC San Diego. He also works for the Coastal Observing Research & Development Center 
- (CORDC) at the Scripps Institution of Oceanography, analyzing fishing vessel behavior
-  and building systems to help combat illegal, unreported, and unregulated (IUU) fishing. 
-  Before graduate school, he spent four years working in the Investment Banking Division 
-  of Goldman Sachs. He graduated with High Honors from Swarthmore College in 2014, 
-  obtaining a B.S. in Engineering and a B.A. in Economics.
-  
-**Research:** Noah is broadly interested in machine learning, from its theoretical underpinnings 
-to the design and construction of novel machine learning systems. He especially 
-enjoys working on unsupervised systems that are able to extract meaning without 
-labels, and on the data systems that allow for efficient training and inference. 
-His current work is focused on the application of recurrent, generative models to 
-real data in order to provide practical insights.  
-
-**Fun fact:**  Noah is a member of the Tau Beta Pi Engineering Honor Society along with his grandfather, Henry, class of 1943!
-
-**Email:** nsterng1 [at] gmail.com
 
 
 ### Undergraduate students
@@ -169,7 +152,12 @@ is perfect as our work directly impacts policy decisions and eventually carbon e
 **Email:** martin.staadecker [at] mail.utoronto.ca
 
 
+### Alumni
 
+Rahul Roy, MAE M.S., 2022
+Mingyuan Wu, MAE M.S., 2021
+Aditya Kulkarni, CSE M.S., 2021
+Noah Sterngold, CSE M.S., 2021
 
 
 
