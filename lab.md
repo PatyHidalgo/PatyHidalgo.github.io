@@ -155,8 +155,11 @@ is perfect as our work directly impacts policy decisions and eventually carbon e
 ### Alumni
 
 Rahul Roy, MAE M.S., 2022
+
 Mingyuan Wu, MAE M.S., 2021
+
 Aditya Kulkarni, CSE M.S., 2021
+
 Noah Sterngold, CSE M.S., 2021
 
 
