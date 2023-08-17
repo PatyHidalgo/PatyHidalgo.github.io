@@ -101,7 +101,7 @@ agricultural practices and community living. "Chop wood, carry water."
 
 #### Paul Serna-Torre
 
-<img align="left" src="/assets/img/Paul_Serna-Torre.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+<img align="left" src="/assets/img/Paul_Serna-Torre_2.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
 **Bio:** Paul is a graduate student (Mechanical Engineering PhD., track: Energy) 
 at UC San Diego advised by Patricia Hidalgo-Gonzalez. He graduated with highest 
