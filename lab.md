@@ -99,7 +99,7 @@ agricultural practices and community living. "Chop wood, carry water."
 **Email:** n7gonzalez [at] ucsd.edu
 
 
-#### Paul Serna Torre
+#### Paul Serna-Torre
 
 <img align="left" src="/assets/img/Paul_Serna-Torre.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
