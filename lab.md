@@ -105,33 +105,31 @@ agricultural practices and community living. "Chop wood, carry water."
 
 <img align="left" src="/assets/img/Paul_Serna-Torre_2.jpg" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
-**Bio:** Paul is a graduate student (Mechanical Engineering PhD., track: Energy) 
-at UC San Diego advised by Patricia Hidalgo-Gonzalez. He graduated with highest 
-honors as an Electrical Engineer from Universidad Nacional de Ingeniería of Peru. 
-For one year, Paul worked on electricity pricing at the Peruvian Energy Commision (Osinergmin).
- At this institution, Paul codeveloped the "Perseo 2.0" model that is a hydrothermal economic 
- dispatch model for electricity tariffs of Peru. In the pursuit of more challenges, 
- Paul began working at the Peruvian Electricity Operator (Coes) in 2018. At Coes, 
- for three years, Paul enjoyed working on electrical analysis and short-term power 
- optimization of the Peruvian system. In addition, with the guidance of Wilfredo Sifuentes, 
- he teamed up with four engineers to develop the "Yupana" model that is the official 
- short-term power generation scheduling model of Peru..
+**Bio:** Paul focuses on the control of Distributed Energy Resources and the planning of 
+power systems expansion. Before joining the Ph.D. program, Paul held appointments in industry for five years. 
+He initially worked on designing power transformers for distribution grids. Then, Paul worked in the 
+Tariff Regulatory Direction of the Peru Energy Commission (Osinergming). Paul, there, codeveloped 
+the "Perseo 2.0" model, a midterm power system optimization model considering the vast hydro grid 
+with reservoirs and rivers in Peru. Then, Paul worked in the Peru National Electricity Operator (Coes) in 2018. 
+Paul performed the nationwide short-term power generation scheduling and the security analysis of the national 
+grid with stability and contingency analysis. With the guidance of Dr. Wilfredo Sifuentes, he teamed up 
+with four engineers to develop the "Yupana" model, Peru's official short-term power generation scheduling model. 
+Paul completed a Master of Arts in Applied Mathematics, focusing on numerical optimization and the theory 
+of probabilities. Paul completed a B.S. in Electrical Engineering, graduating with highest honors, 
+from Universidad Nacional de Ingeniería of Peru.
 
-**Research:** Paul is zestfully learning on optimization, electricity markets, 
-power system dynamics and the decarbonization of power systems. He is particularly 
-interested in leveraging Operations Research-based methods (e.g. Benders Decomposition, 
-Non-linear methods, MILP) to optimize and control energy systems. Moreover, 
-Paul formed a predilection for teaching and mentoring students, so he is always 
-looking for new opportunities to teach and help students.
+**Research:** Paul is interested in controlling Distributed Energy Resources (DERs) using 
+Machine Learning and Game Theory for frequency and voltage regulation.
+Paul is also working on analyzing the grid expansion of North American Western 
+Interconnection towards 2050, considering zero emissions,
+the impact of storage costs declining and decreasing transmission capacity.
 
-**Fun fact:** For Paul, biking and going jogging are the best ways to refresh his 
-entangled ideas and to create novel energy solutions.
+**Fun fact:** Paul really enjoy playing soccer and having good meals.
 
 **Email:** psernatorre [at] ucsd.edu / psernat [at] uni.pe 
 
 
 ### M.S. students
- 
 
 
 
