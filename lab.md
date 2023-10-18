@@ -108,9 +108,9 @@ agricultural practices and community living. "Chop wood, carry water."
 **Bio:** Paul focuses on the control of Distributed Energy Resources and the planning of 
 power systems expansion. Before joining the Ph.D. program, Paul held appointments in industry for five years. 
 He initially worked on designing power transformers in Delcrosa, an electromechanical firm. 
-Then, Paul worked in Osinergmin, the Tariff Regulatory Direction of the Peru Energy Commission. 
+Then, Paul worked in Osinergmin, Tariff Regulatory Direction of the Peru Energy Commission. 
 Paul, there, codeveloped the "Perseo 2.0" model, a midterm power system optimization model considering 
-the vast hydro grid with reservoirs and rivers in Peru. Then, Paul worked in COES, the Peru National Electricity Operator. 
+the vast hydro grid with reservoirs and rivers in Peru. Then, Paul worked in COES, Peru National Electricity Operator. 
 Paul performed the nationwide short-term power generation scheduling and the security analysis of the national 
 grid with stability and contingency analysis. With the guidance of Dr. Wilfredo Sifuentes, he teamed up 
 with four engineers to develop the "Yupana" model, Peru's official short-term power generation scheduling model. 
