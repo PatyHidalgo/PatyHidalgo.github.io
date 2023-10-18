@@ -68,30 +68,32 @@ Latin dancing events in San Diego
 
 #### Natalia Gonzalez
 
-<img align="left" src="/assets/img/Natalia_Gonzalez.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+<img align="left" src="/assets/img/Natalia_Gonzalez.JPG" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
 
-**Bio:** Natalia (she/her) is a Ph.D. student at UC San Diego studying mechanical engineering
- with a focus on control theory and machine learning. She graduated from the University 
- of Florida with an BS in MAE. Natalia also earned a minor in sustainability and the built 
- environment, which provided her with an alternative perspective on the challenges associated 
- with developing a more sustainable built environment, as well as a top-level overview of 
- the effects of climate change and the strategies being employed to mitigate it globally. 
- Her undergraduate research project was a case study on the German energy transition. Her 
- research provided a comprehensive review and discussion of the significant socio-technical
-  roles that power production and the grid, buildings, and the public have played in the 
-  energy transition. She is extremely passionate about the environment and climate change 
-  mitigation, which motivates her to contribute to a more sustainable energy future through research.
-  
-  
+**Bio:** Natalia (she/her) is a Ph.D. student at UC San Diego studying mechanical engineering 
+with a focus on control theory, optimization, and modeling. She completed her MS in MAE at 
+UC San Diego in March 2023. She graduated Summa Cum Laude from the University of Florida 
+with an BS in MAE. Natalia also earned a minor in Sustainability and the Built Environment, 
+which provided her with an alternative perspective on the challenges associated with developing 
+a more sustainable built environment, as well as a top-level overview of the effects of 
+climate change and the strategies being employed to mitigate it globally. Her undergraduate 
+research project was a case study on the German energy transition. Her research provided 
+a comprehensive review and discussion of the significant socio-technical roles that 
+power production and the grid, buildings, and the public have played in the energy transition. 
+She is extremely passionate about the environment and climate change mitigation, which motivates 
+her to contribute to a more sustainable energy future through research.
+
 **Research:** Natalia’s research focuses on renewable integration into power systems 
 through optimization, control, and machine learning/AI. She believes that 100% renewable 
 power capacity is possible through the optimized integration of distributed energy resources, 
 strategic planning of electricity and energy markets, and the utilization of robust design 
-that accounts for the uncertainties of climate change. Natalia is also interested in energy 
-policy and the role of AI in sustainable development. Furthermore, she loves to teach and 
-mentor students, and she is especially dedicated to uplifting historically underrepresented 
-engineers through mentorship and education.
+that accounts for the uncertainties of climate change. Her most recent work explores the 
+role that emerging technologies may play in a decarbonized grid using capacity expansion modeling. 
+Natalia is also interested in energy policy, environmental justice implications of various 
+decarbonization pathways, and the role of AI in sustainable development. Furthermore, she 
+loves to teach and mentor students, and she is especially dedicated to uplifting historically 
+underrepresented engineers through mentorship and education.
 
 **Fun fact:** Natalia has worked on several off-grid permaculture farms to learn about sustainable 
 agricultural practices and community living. "Chop wood, carry water."
