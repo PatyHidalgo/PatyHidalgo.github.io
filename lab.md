@@ -110,7 +110,7 @@ power systems expansion. Before joining the Ph.D. program, Paul held appointment
 He initially worked on designing power transformers for distribution grids. Then, Paul worked in the 
 Tariff Regulatory Direction of the Peru Energy Commission (Osinergming). Paul, there, codeveloped 
 the "Perseo 2.0" model, a midterm power system optimization model considering the vast hydro grid 
-with reservoirs and rivers in Peru. Then, Paul worked in the Peru National Electricity Operator (Coes) in 2018. 
+with reservoirs and rivers in Peru. Then, Paul worked in the Peru National Electricity Operator (Coes). 
 Paul performed the nationwide short-term power generation scheduling and the security analysis of the national 
 grid with stability and contingency analysis. With the guidance of Dr. Wilfredo Sifuentes, he teamed up 
 with four engineers to develop the "Yupana" model, Peru's official short-term power generation scheduling model. 
