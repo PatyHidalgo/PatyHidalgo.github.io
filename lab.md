@@ -68,7 +68,7 @@ Latin dancing events in San Diego
 
 #### Natalia Gonzalez
 
-<img align="left" src="/assets/img/Natalia_Gonzalez.JPG" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+<img align="left" src="/assets/img/Natalia_Gonzalez.jpg" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
 
 **Bio:** Natalia (she/her) is a Ph.D. student at UC San Diego studying mechanical engineering 
