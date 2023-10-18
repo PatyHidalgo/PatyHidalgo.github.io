@@ -124,7 +124,7 @@ Paul is also working on analyzing the grid expansion of North American Western
 Interconnection towards 2050, considering zero emissions,
 the impact of storage costs declining and decreasing transmission capacity.
 
-**Fun fact:** Paul really enjoy playing soccer and having good meals.
+**Fun fact:** Paul enjoys playing soccer and having good meals.
 
 **Email:** psernatorre [at] ucsd.edu / psernat [at] uni.pe 
 
