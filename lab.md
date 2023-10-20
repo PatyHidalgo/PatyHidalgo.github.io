@@ -134,7 +134,6 @@ the impact of storage costs declining and decreasing transmission capacity.
 
 
 ### Undergraduate students
- 
 
 #### Martin Staadecker
 
@@ -150,6 +149,34 @@ is perfect as our work directly impacts policy decisions and eventually carbon e
 **Fun fact:** Last year I went outdoor rock climbing in Mexico and I can't wait to go back!
 
 **Email:** martin.staadecker [at] mail.utoronto.ca
+
+#### Lauren Streitmatter
+
+<img align="left" src="/assets/img/Lauren_Streitmatter.jpg" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+
+**Bio:**   Lauren graduated with high honors from the University of Toronto last June, 
+receiving a BASc in Energy Systems Engineering. Her undergraduate thesis was on California 
+residential microgrid optimization for vulnerable communities, and she helped design a 
+sustainable heat recovery system for a northern Canadian high school greenhouse as her 
+capstone project. She is now working in the Grid Planning and Analysis Center at the 
+National Renewable Energy Lab in Golden, Colorado. Lauren is driven by her passion for 
+sustainability and environmental justice. She hopes to eventually return to school to 
+study control theory and renewable power system dynamics to facilitate the integration
+of inverter-based resources into electricity grids. 
+
+**Research:** Lauren’s research with the REAM lab is a continuation of her thesis work 
+into the optimization of residential microgrid investment and operation strategies. 
+She has also worked on modeling hydrogen storage in switch. Moving forward, she hopes 
+to learn more about dynamic and transient stability analyses for electricity grids with 
+high penetrations of variable renewable energy sources. She is interested in developing, 
+and using energy modeling tools to help inform a reliable, resilient, and equitable transition 
+to completely decarbonized electricity grids.
+
+**Fun fact:** Lauren loves water sports - she played water polo in high school, 
+competed on UofT’s dragon boat team, and swims weekly.
+
+
+**Email:**lauren.streitmatter [at] mail.utoronto.ca
 
 
 ### Alumni
