@@ -152,7 +152,7 @@ is perfect as our work directly impacts policy decisions and eventually carbon e
 
 #### Lauren Streitmatter
 
-<img align="left" src="/assets/img/Lauren_Streitmatter.jpg" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+<img align="left" src="/assets/img/Lauren_Streitmatter.jpeg" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
 **Bio:**   Lauren graduated with high honors from the University of Toronto last June, 
 receiving a BASc in Energy Systems Engineering. Her undergraduate thesis was on California 
