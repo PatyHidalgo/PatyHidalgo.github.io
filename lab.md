@@ -208,7 +208,31 @@ to completely decarbonized electricity grids.
 competed on UofT’s dragon boat team, and swims weekly.
 
 
-**Email:**lauren.streitmatter [at] mail.utoronto.ca
+**Email:** lauren.streitmatter [at] mail.utoronto.ca
+
+
+
+#### Rachel Wei
+
+<img align="left" src="/assets/img/Rachel_Wei.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+
+**Bio:**   Rachel is an undergraduate student in the Computer Science and Engineering 
+department at UCSD. She is interested in investigating how technology and applications 
+of CS can aid renewable energy initiatives. As part of a pro-bono consulting club at UCSD, 
+she has provided consulting services to Center for Community Energy on feasibility of using 
+EV batteries to power homes.
+
+**Research:** Rachel is interested in projects investigating the energy grid and energy 
+markets to understand policies and strategies contributing to clean energy grids. She 
+recently assisted Natalia in researching the integration of underutilized renewable energy 
+sources. Currently, Rachel is researching new resources that have recent data and predictions 
+on energy demand. 
+
+**Fun fact:** Rachel likes to bake and try out new recipes in her free time, 
+especially cakes and cookies. 
+
+**Email:** rawei@ucsd.edu [at] ucsd.edu
+
 
 
 ### Alumni
