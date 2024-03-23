@@ -31,6 +31,10 @@ for dynamical systems with safety guarantees. For more info refer to her [bio](p
 
 
 
+
+
+
+
 ### Postdoctoral fellows
 
 #### Rajni Bansal
@@ -54,6 +58,8 @@ For more info on his work, refer to his website.
 practicing his Deutsch for almost five years now.
 
 **Email:** rabansal [at] ucsd.edu
+
+
 
 ### Ph.D. students
  
