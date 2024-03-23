@@ -37,6 +37,10 @@ for dynamical systems with safety guarantees. For more info refer to her [bio](p
 
 ### Postdoctoral fellows
 
+
+
+
+
 #### Rajni Bansal
 
 <img align="left" src="/assets/img/Bansal_Rajni.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
