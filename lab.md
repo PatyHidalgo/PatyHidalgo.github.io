@@ -63,6 +63,9 @@ practicing his Deutsch for almost five years now.
 
 **Email:** rabansal [at] ucsd.edu
 
+#
+#
+#
 
 
 ### Ph.D. students
@@ -160,10 +163,9 @@ the impact of storage costs declining and decreasing transmission capacity.
 
 **Email:** psernatorre [at] ucsd.edu / psernat [at] uni.pe 
 
-
-### M.S. students
-
-
+#
+#
+#
 
 ### Undergraduate students
 
