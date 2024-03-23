@@ -27,7 +27,15 @@ for dynamical systems with safety guarantees. For more info refer to her [bio](p
 **Email:** phidalgogonzalez [at] ucsd.edu
 
 
+
+
+
+
 ### Postdoctoral fellows
+
+#### Rajni Bansal
+
+<img align="left" src="/assets/img/Bansal_Rajni.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
 **Bio:** Dr. Rajni Bansal is a Postdoctoral Researcher at the Center for Energy Research, 
 University of California San Diego. He holds a Ph.D. in the Department of Mechanical Engineering and 
