@@ -26,20 +26,11 @@ for dynamical systems with safety guarantees. For more info refer to her [bio](p
 
 **Email:** phidalgogonzalez [at] ucsd.edu
 
-
 #
 #
 #
-#
-
-
-
 
 ### Postdoctoral fellows
-
-
-
-
 
 #### Rajni Bansal
 
@@ -69,7 +60,6 @@ practicing his Deutsch for almost five years now.
 
 
 ### Ph.D. students
- 
 
 #### Manasa Muralidharan
 
@@ -148,10 +138,10 @@ Paul, there, codeveloped the "Perseo 2.0" model, a midterm power system optimiza
 the vast hydro grid with reservoirs and rivers in Peru. Then, Paul worked in COES, Peru National Electricity Operator. 
 Paul performed the nationwide short-term power generation scheduling and the security analysis of the national 
 grid with stability and contingency analysis. With the guidance of Dr. Wilfredo Sifuentes, he teamed up 
-with four engineers to develop the "Yupana" model, Peru's official short-term power generation scheduling model. 
-Paul completed a Master of Arts in Applied Mathematics, focusing on numerical optimization and the theory 
-of probabilities. Paul completed a B.S. in Electrical Engineering, graduating with highest honors, 
-from Universidad Nacional de Ingeniería, Peru.
+with four engineers to develop the "Yupana" model, short-term power generation scheduling model currently 
+used by the National Electricity Operator. Paul earned a Master of Arts degree in Applied Mathematics, 
+focusing on numerical optimization and the theory of probabilities. Paul earned a B.S. degree in Electrical Engineering, 
+graduating with highest honors,from Universidad Nacional de Ingeniería, Peru.
 
 **Research:** Paul is interested in controlling Distributed Energy Resources (DERs) using 
 Machine Learning and Game Theory for frequency and voltage regulation.
@@ -213,7 +203,6 @@ competed on UofT’s dragon boat team, and swims weekly.
 **Email:** lauren.streitmatter [at] mail.utoronto.ca
 
 
-
 #### Rachel Wei
 
 <img align="left" src="/assets/img/Rachel_Wei.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
@@ -233,9 +222,27 @@ on energy demand.
 **Fun fact:** Rachel likes to bake and try out new recipes in her free time, 
 especially cakes and cookies. 
 
-**Email:** rawei@ucsd.edu [at] ucsd.edu
+**Email:** rawei [at] ucsd.edu
 
-#
+
+#### Albert Chang
+
+**Bio:**    Albert is an undergraduate student at UC San Diego studying mechanical engineering with 
+a focus on renewable energy and environmental flows. His interests in environmental justice, 
+community-centered design, and social sciences have guided him to the intersection of engineering 
+and public policy. Albert previously conducted a battery storage feasibility study for UCSD's Carbon 
+Neutrality Initiative and is now working at a startup seeking to repurpose end-of-life EV batteries 
+into stationary energy storage systems.
+
+**Research:** Albert is interested in exploring energy equity metrics and implications to reduce the 
+energy burden of underserved communities. He is currently conducting sensitivity analyses 
+on the India power grid to provide policy suggestions for the Multi-Country Electricity 
+Transition project.
+
+**Fun fact:** Albert enjoys hiking and hopes to complete trails in all fifty states!
+
+**Email:** alc010 [at] ucsd.edu
+
 #
 #
 #
