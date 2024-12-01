@@ -26,37 +26,6 @@ for dynamical systems with safety guarantees. For more info refer to her [bio](p
 
 **Email:** phidalgogonzalez [at] ucsd.edu
 
-#
-#
-#
-
-### Postdoctoral fellows
-
-#### Rajni Bansal
-
-<img align="left" src="/assets/img/Bansal_Rajni.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
-
-**Bio:** Dr. Rajni Bansal is a Postdoctoral Researcher at the Center for Energy Research, 
-University of California San Diego. He holds a Ph.D. in the Department of Mechanical Engineering and 
-an M.S.E in the Department of Applied Mathematics from Johns Hopkins University, where he worked with 
-Dr. Dennice Gayme and Dr. Enrique Mallada. Before Hopkins, he graduated as a Mechanical Engineer from 
-the Indian Institute of Technology, Kanpur, and has worked as a Market Analyst at Credit Suisse 
-Investment Bank.
-
-**Research:** Rajni's research lies at the intersection of optimization, control, graph theory, 
-and game theory, which assists with the market design of evolving multi-timescale markets. 
-For more info on his work, refer to his website.
-
-**Personal website link:** https://sites.google.com/view/rajnibansal/home
-
-**Fun fact:** He likes playing squash and learning new languages in his spare time. He has been 
-practicing his Deutsch for almost five years now.
-
-**Email:** rabansal [at] ucsd.edu
-
-#
-#
-#
 
 
 ### Ph.D. students
@@ -156,6 +125,56 @@ the impact of storage costs declining and decreasing transmission capacity.
 #
 #
 #
+
+### Postdoctoral fellows
+
+#### Rajni Bansal
+
+<img align="left" src="/assets/img/Bansal_Rajni.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+
+**Bio:** Dr. Rajni Bansal is a Postdoctoral Researcher at the Center for Energy Research, 
+University of California San Diego. He holds a Ph.D. in the Department of Mechanical Engineering and 
+an M.S.E in the Department of Applied Mathematics from Johns Hopkins University, where he worked with 
+Dr. Dennice Gayme and Dr. Enrique Mallada. Before Hopkins, he graduated as a Mechanical Engineer from 
+the Indian Institute of Technology, Kanpur, and has worked as a Market Analyst at Credit Suisse 
+Investment Bank.
+
+**Research:** Rajni's research lies at the intersection of optimization, control, graph theory, 
+and game theory, which assists with the market design of evolving multi-timescale markets. 
+For more info on his work, refer to his website.
+
+**Personal website link:** https://sites.google.com/view/rajnibansal/home
+
+**Fun fact:** He likes playing squash and learning new languages in his spare time. He has been 
+practicing his Deutsch for almost five years now.
+
+**Email:** rabansal [at] ucsd.edu
+
+#### Qi Geng
+
+<img align="left" src="/assets/img/qi_geng.jpg" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+
+**Bio:** Dr. Qi Geng is a Postdoctoral Researcher at the Center for Energy Research, 
+University of California, San Diego, under the supervision of Prof. Patricia Hidalgo-Gonzalez. 
+She earned her Ph.D. in Electrical Engineering from the China Electric Power Research Institute (CEPRI) in 2023, 
+where she was advised by Prof. Huadong Sun and Prof. Xiaoxin Zhou. Her doctoral research focused on the 
+development of advanced methods for transient stability analysis and control in power systems 
+with heterogeneous generators, aimed at enhancing the resilience and stability of modern power grids.
+
+**Research:** Qi’s research focuses on the stability analysis and control of power systems 
+with inverter-based resources (IBRs), as well as the resilient operation and planning of power systems 
+under extreme weather conditions, such as heatwaves and wildfires. Her work leverages advanced control 
+and optimization theory to enhance system resilience and ensure reliable performance in the face of 
+increasing climate-related challenges.
+
+Fun fact: Qi enjoys painting and even had the opportunity to create a mural for her school!
+
+Email: qigeng [at] ucsd.edu
+
+#
+#
+#
+
 
 ### Undergraduate students
 
