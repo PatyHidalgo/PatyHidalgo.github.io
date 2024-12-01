@@ -30,35 +30,29 @@ for dynamical systems with safety guarantees. For more info refer to her [bio](p
 
 ### Ph.D. students
 
-#### Manasa Muralidharan
+#### Adam Sedlak
 
-<img align="left" src="/assets/img/Manasa.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+<img align="left" src="/assets/img/adam_sedlak.jpg" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
 
-**Bio:** Manasa Muralidharan (she/her) is a PhD Candidate in the Mechanical Engineering department 
-at UCSD co-advised by Prof. Patricia Hidalgo-Gonzalez and Prof. Jan Kleissl. She graduated 
-with a Bachelors in Aerospace Engineering with Distinction from Amrita Vishwa Vidyapeetham 
-(University), Coimbatore, India in 2017. She was a study-abroad student at UCSD for the 
-last 3 semesters of her undergraduate study. Her undergraduate research project was on 
-studying the impact of shading from rooftop solar photovoltaics on building heating and 
-cooling energy use and costs.
 
-**Research:**  Manasa is broadly interested in distributed control, optimization and learning 
-for power grids with a high share of renewable and distributed energy resources.
-Her earlier research work was on optimal control for battery energy storage systems. 
-As a part of an ARPA-E OPEN project, she developed a system-level optimal controller for a 
-novel heterogeneous unifying battery system that improves state-of-health uniformity, 
-performance and reliability of 2nd-life electric vehicle batteries.
-Her current research focuses on frequency control. As a part of an ARPA-E NODES project, 
-she developed a power flow model of the UCSD microgrid to test microgrid response to a 
-secondary frequency regulation request from the grid operator. She also contributed to 
-one of the first real-world, large-scale demonstrations of distributed secondary 
-frequency control using heterogeneous distributed energy resources on the UCSD microgrid. 
-Her current research includes distributed frequency control and safety-guaranteed 
-learning-based frequency control for power grids with low and time-varying inertia.
+**Bio:** Adam (he/him) is a Ph.D. student in Mechanical and Aerospace Engineering advised by Patricia Hidalgo-Gonzalez. 
+Prior to beginning a PhD program at UC San Diego, he worked as a research programmer at the Brookings Institution in Washington, DC 
+using agent-based models to examine policy interventions related to public health and social disparities. 
+Adam graduated from UC Berkeley with a B.A. in data science where he conducted materials science research and 
+used machine learning to study wildfire risk from high voltage transmission lines. 
 
-**Fun fact:** Manasa is a classically-trained and passionate dancer. She is currently a part 
-of an all-women Bachata dance team with a local dance company and performs at different 
-Latin dancing events in San Diego
+**Research:** Adam is passionate about contributing to energy and power systems research that will advance clean energy 
+integration and mitigate climate change. His research interests include using mathematical optimization for long-term 
+energy systems planning and developing control strategies for inverter-based energy resources—such as solar and wind. 
+Over the course of his PhD research, Adam plans to apply data-driven learning along with high-performance computing 
+to tackle these research questions at scale. He is also interested in researching the impact of climate change and extreme 
+weather on power systems as well as the role of grid-enhancing technologies in decarbonization and energy resilience. 
+Adam enjoys teaching and is looking forward to TA-ing engineering courses and mentoring students interested in research.  
+
+**Fun fact:** Adam is an avid long-distance runner and recently ran a 50 km trail race. 
+
+**Email:** asedlak [at] ucsd.edu
+
 
 #### Natalia Gonzalez
 
@@ -167,9 +161,9 @@ under extreme weather conditions, such as heatwaves and wildfires. Her work leve
 and optimization theory to enhance system resilience and ensure reliable performance in the face of 
 increasing climate-related challenges.
 
-Fun fact: Qi enjoys painting and even had the opportunity to create a mural for her school!
+**Fun fact:** Qi enjoys painting and even had the opportunity to create a mural for her school!
 
-Email: qigeng [at] ucsd.edu
+**Email:** qigeng [at] ucsd.edu
 
 #
 #
@@ -271,6 +265,8 @@ Transition project.
 
 
 ### Alumni
+
+Manasa Muralidharan, MAE PhD., 2024
 
 Rahul Roy, MAE M.S., 2022
 
