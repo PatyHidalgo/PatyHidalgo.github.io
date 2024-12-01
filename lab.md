@@ -26,7 +26,9 @@ for dynamical systems with safety guarantees. For more info refer to her [bio](p
 
 **Email:** phidalgogonzalez [at] ucsd.edu
 
-
+#
+#
+#
 
 ### Ph.D. students
 
