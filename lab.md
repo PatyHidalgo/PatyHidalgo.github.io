@@ -174,6 +174,31 @@ increasing climate-related challenges.
 
 ### Undergraduate students
 
+#### Julia Lee
+
+<img align="left" src="/assets/img/julia_lee.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
+
+**Bio:** Julia is a 4th year Mechanical Engineering undergraduate at UCSD. She has diverse experience, 
+from filing two patents (pending) as a Mechanical Engineering Intern at GE Appliances to working on 
+high-voltage battery systems at Monarch Tractor, an electric autonomous tractor startup in the Bay Area. 
+As a RISE Germany Scholarship Recipient, she used data analysis to conduct research at the Urban Water Management 
+Lab at Technical University Berlin. She also advises the Engineers for a Sustainable World Chapter at UCSD, which 
+connects students with sustainable industry professionals, manages engineering project teams, and organizes guest 
+speaker talks to educate students about sustainable technologies and organizations. 
+
+**Research:** Her interests are broadly centered on advancing the clean energy transition and supporting 
+public infrastructure (water, power, public transportation). Specific interests include energy equity, 
+power grid DER integration, offshore wind and wave resources, and STEM education. Her current research 
+involves using new NREL data platforms to improve the accuracy of capacity expansion models that guide planning
+and forecasting for renewable energy integration. Her research will also contribute to the stochastic modeling of 
+DERs in residential areas and their impact on extreme weather event resiliency. 
+
+**Website:** https://sites.google.com/view/juliatlee/about 
+
+**Fun fact:** Julia enjoys making waffles every Sunday, hiking, and customizing mechanical keyboards. 
+
+**Email:** jtl011 [at] ucsd.edu 
+
 #### Martin Staadecker
 
 **Bio:**  I'm an undergraduate student in the Engineering Science program at the 
