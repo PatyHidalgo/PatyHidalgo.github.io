@@ -38,7 +38,7 @@ for dynamical systems with safety guarantees. For more info refer to her [bio](p
 
 
 **Bio:** Adam (he/him) is a Ph.D. student in Mechanical and Aerospace Engineering advised by Patricia Hidalgo-Gonzalez. 
-Prior to beginning a PhD program at UC San Diego, he worked as a research programmer at the Brookings Institution in Washington, DC 
+Prior to beginning a Ph.D. program at UC San Diego, he worked as a research programmer at the Brookings Institution in Washington, DC 
 using agent-based models to examine policy interventions related to public health and social disparities. 
 Adam graduated from UC Berkeley with a B.A. in data science where he conducted materials science research and 
 used machine learning to study wildfire risk from high voltage transmission lines. 
@@ -293,7 +293,7 @@ Transition project.
 
 ### Alumni
 
-Manasa Muralidharan, MAE PhD., 2024
+Manasa Muralidharan, MAE Ph.D., 2024
 
 Rahul Roy, MAE M.S., 2022
 
