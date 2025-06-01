@@ -26,9 +26,7 @@ for dynamical systems with safety guarantees. For more info refer to her [bio](p
 
 **Email:** phidalgogonzalez [at] ucsd.edu
 
-#
-#
-#
+
 
 ### Ph.D. students
 
@@ -118,9 +116,7 @@ the impact of storage costs declining and decreasing transmission capacity.
 
 **Email:** psernatorre [at] ucsd.edu / psernat [at] uni.pe 
 
-#
-#
-#
+
 
 ### Postdoctoral fellows
 
@@ -167,9 +163,7 @@ increasing climate-related challenges.
 
 **Email:** qigeng [at] ucsd.edu
 
-#
-#
-#
+
 
 
 ### Undergraduate students
@@ -285,15 +279,12 @@ Transition project.
 
 **Email:** alc010 [at] ucsd.edu
 
-#
-#
-#
-#
+
 
 
 ### Alumni
 
-Manasa Muralidharan, MAE Ph.D., 2024
+Manasa Muralidharan, MAE Ph.D., 2024 (Next: Researcher at NREL)
 
 Rahul Roy, MAE M.S., 2022
 
