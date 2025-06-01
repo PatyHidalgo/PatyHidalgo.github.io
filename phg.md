@@ -18,14 +18,14 @@ She graduated as an Industrial and Electrical engineer from Pontificia Universid
 Católica de Chile. Her work has been funded by the California Energy Commission, the U.S. Department of Energy, the Sloan Foundation, the Environmental Defense Fund, the University of California Office of the President and GridLab (totaling $5.3M, where $2.1M are as lead PI). Prof. Hidalgo-Gonzalez is the 2025 IISE Energy Systems Division Outstanding Young Investigator Awardee (one winner per year globally), an NSF GRFP fellow, Siebel Scholar in Energy, Rising Star in Electrical Engineering and Computer Science, has been awarded Best paper at the Power Systems Computation Conference 2020, and is part of the Editors’ Highlights in Nature Communications (best 50 papers recently published in “Engineering and Infrastructure”), her work was cited in The White House 2024 Economic Report of the President, among other recognitions. She is part of the IEEE Task forces “Data-driven controls for distributed systems” and "Wildfire Aware-Risk Management (WARM) for the Electric Power Grid" and has served as best paper judge in the IEEE Control Systems Society Technical Committee on Energy Systems. She has also served as the opening talk for the energy storage session in EPRI's 43rd Seminar on Resource Planning in Washington D.C., and as a speaker at a symposium from the U.S. National Academy of Sciences and the German National Academy of Sciences Leopoldina in Halle, Germany, among others.
 
 
-# She is an NSF GRFP fellow, Siebel Scholar in Energy, Rising Star 
-# in Electrical Engineering and Computer Science, and has been awarded the UC Berkeley 
-# Graduate Opportunity Program Award, and the Outstanding Graduate Student Instructor Award 
-# (for teaching Convex Optimization). She has served as Best Paper Session Judge and co-Chair, 
-# and Paper Forum Chair at the 2019 and 2020 IEEE Power & Energy Society General Meeting (PESGM). 
-# She is one of the academic co-leads of the IEEE Power & Energy Society Task Force “Data-Driven 
-% Controls for Distributed Systems”. She is the director of the Renewable Energy and Advanced Mathematics 
-% (REAM) lab at UCSD. 
+<> She is an NSF GRFP fellow, Siebel Scholar in Energy, Rising Star 
+<> in Electrical Engineering and Computer Science, and has been awarded the UC Berkeley 
+<> Graduate Opportunity Program Award, and the Outstanding Graduate Student Instructor Award 
+<> (for teaching Convex Optimization). She has served as Best Paper Session Judge and co-Chair, 
+<> and Paper Forum Chair at the 2019 and 2020 IEEE Power & Energy Society General Meeting (PESGM). 
+<> She is one of the academic co-leads of the IEEE Power & Energy Society Task Force “Data-Driven 
+<> Controls for Distributed Systems”. She is the director of the Renewable Energy and Advanced Mathematics 
+<> (REAM) lab at UCSD. 
 
 ### Research interest
 
