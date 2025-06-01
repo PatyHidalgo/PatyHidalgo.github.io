@@ -42,6 +42,7 @@ convex optimization, control theory and power systems. Email: phidalgogonzalez a
 * 2014 Graduate Opportunity Program Award at UC Berkeley
 
 
+
 ### Outreach
 
 Professor Hidalgo-Gonzalez believes the world can be a better place if we:
