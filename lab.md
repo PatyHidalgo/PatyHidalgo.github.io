@@ -120,28 +120,6 @@ the impact of storage costs declining and decreasing transmission capacity.
 
 ### Postdoctoral fellows
 
-#### Rajni Bansal
-
-<img align="left" src="/assets/img/Bansal_Rajni.png" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
-
-**Bio:** Dr. Rajni Bansal is a Postdoctoral Researcher at the Center for Energy Research, 
-University of California San Diego. He holds a Ph.D. in the Department of Mechanical Engineering and 
-an M.S.E in the Department of Applied Mathematics from Johns Hopkins University, where he worked with 
-Dr. Dennice Gayme and Dr. Enrique Mallada. Before Hopkins, he graduated as a Mechanical Engineer from 
-the Indian Institute of Technology, Kanpur, and has worked as a Market Analyst at Credit Suisse 
-Investment Bank.
-
-**Research:** Rajni's research lies at the intersection of optimization, control, graph theory, 
-and game theory, which assists with the market design of evolving multi-timescale markets. 
-For more info on his work, refer to his website.
-
-**Personal website link:** https://sites.google.com/view/rajnibansal/home
-
-**Fun fact:** He likes playing squash and learning new languages in his spare time. He has been 
-practicing his Deutsch for almost five years now.
-
-**Email:** rabansal [at] ucsd.edu
-
 #### Qi Geng
 
 <img align="left" src="/assets/img/qi_geng.jpg" width="300" style="padding-bottom: 10px;" style="padding-right: 10px;"/>
