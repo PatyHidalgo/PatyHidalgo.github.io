@@ -53,3 +53,6 @@ Professor Hidalgo-Gonzalez believes the world can be a better place if we:
 * Mitigate climate change
 * Have mostly plant-based diets (to the extent possible for each person)
 * Are generally kind :)
+
+<object data="/assets/img/CV_phg.pdf" type="application/pdf" width="700px" height="1000px">
+</object>
